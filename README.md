@@ -1,4 +1,4 @@
-# Adidas sales analysis :
+# **Adidas sales analysis :**
 
 1. Data Cleaning and Transformation:
    - Removed dollar signs and commas from `Total_Sales`, `Operating_Profit`, and `Price_per_Unit` to convert them into integers.
